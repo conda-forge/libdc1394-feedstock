@@ -26,10 +26,9 @@ requirements:
     - libtool
     - pkg-config
     - make
-
+    - gnuconfig
   host:
     - libusb
-
   run:
     - libusb
 
